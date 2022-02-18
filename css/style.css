@@ -44,7 +44,7 @@ p {
 	font-weight: 400;
 }
 a {
-	color:#7EC13F;
+	color:#FFFFFF;
 	background:none;
 	text-decoration: none;
 	outline: none;
@@ -120,6 +120,35 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
  font-weight: 600;
  letter-spacing:1px;
 }
+
+.topbar-left {
+	float: left;
+}
+
+.header_top .topbar-left .list-inline {
+	float: left;
+	margin: 13px 0;
+	
+}
+
+.iconosredes {
+text-align:right;
+}
+
+.topbar-hightlight {
+	color: #fff;
+	font-size: 12px;
+}
+
+
+
+.linea1{
+	background:#00778b;
+	width:100%;
+		
+}
+
+
 
 .clear {
 	clear:both;
@@ -655,7 +684,7 @@ section {
 }
 
 .menu-bg {
-	background:#202020;
+	background:#000000;
 }
 
 #main-menu ul {
@@ -717,6 +746,7 @@ section {
 .logo-nav {
 	float: left;
 	line-height: 60px;
+	
 }
 
 
@@ -1808,7 +1838,7 @@ ul.timeline {
 	border-radius: 50%;
 	display: inline-block;
 	margin: 0px auto;
-	background: #7EC13F none repeat scroll 0% 0%;
+	background: #00778b none repeat scroll 0% 0%;
 }
 
 .services-box .services-desc {
